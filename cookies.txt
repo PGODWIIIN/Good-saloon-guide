@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.goodsalonguide.com	TRUE	/	FALSE	1999999999	SSESScbad2863ef4a28619168707cc613cb34	RFVHNZ6hU7OjtxLUrBZrmIXFIqaZcWLBKDCi953GhqoXmVx5
+www.goodsalonguide.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
